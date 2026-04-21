@@ -1,0 +1,32 @@
+.bar {
+	position: relative;
+	width: 100vw;
+	height: 10vh;
+	top: 0px;
+	background-color: black;
+
+}
+.title a:link, .title a:visited {
+	color: white;
+	text-decoration: none;
+	font-size: 3vw;
+}
+.title {
+	display: inline;
+}
+nav {
+	display: inline;
+	position: absolute;
+	width: 50vw;
+	height: 0px;
+	right: 0px;
+	bottom: 30px;
+}
+nav a:link, nav a:visited {
+	background-color: red;
+}
+
+body {
+	background-color: grey;
+	margin: 0px;
+}
